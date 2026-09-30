@@ -54,7 +54,9 @@ This structure provides a scalable and business-oriented framework for matching 
 
 ## Presentation
 
-The competition presentation is included in this repository.
+The competition presentation is available here:
+
+[`NUS_Datathon_2025.pdf`](NUS_Datathon_2025.pdf)
 
 ## Team
 
